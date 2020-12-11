@@ -1,5 +1,4 @@
 ## By Javier Gomez Felix
-
 ## USUARIOS DEFAULT 
 Estas crendenciales se pueden utilizar para entrar a la app.
 
